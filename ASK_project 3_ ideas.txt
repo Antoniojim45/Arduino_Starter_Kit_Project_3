@@ -1,0 +1,5 @@
+ASK project 3 ideas:
+
+-- use the calibration method to make a baseline temprature. 
+-- make some sort of temprature reading device. 
+-- use this project to indicate how hot a system is going. 
